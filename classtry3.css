@@ -1,0 +1,29 @@
+.para{
+text-align:left;
+text-decoration: line-through;
+}
+.p{
+    color:white;
+    width: 100px;
+    background-color: blue;
+    border-radius: 10%;
+}
+.bs{
+    color: white;
+background-color: blue;
+width: 100px;
+border-radius: 10px;
+;
+}
+.parg{
+    color: white;
+    background-color: brown;
+    width: 100px;
+    border-radius: 10px;
+}
+.bsc{
+    color: white;
+    background-color: lawngreen;
+    width: 100px;
+    border-radius: 10px;
+}

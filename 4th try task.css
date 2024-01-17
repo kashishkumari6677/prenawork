@@ -1,0 +1,36 @@
+h1{
+text-align: center;
+}
+para{
+text-align: center;
+}
+b{
+  text-decoration: underline;  
+}
+.fsw{
+    text-decoration: aliceblue; color: rgb(107, 16, 16);
+}
+.up{
+  text-decoration:  aliceblue;color: rgb(148, 48, 48)
+}
+h2{
+    text-decoration: ;color:brown;
+} 
+table{
+   border-collapse: collapse ;
+width: 20%;
+}
+th,td{
+border-width:1px ;
+border: color 0;0);
+border-style: solid;
+}
+.bbs{
+  text-align: center;
+}
+.kkk{
+  background-color: blanchedalmond;
+}
+.ppp{
+  background-color: blanchedalmond;
+}
